@@ -8,6 +8,7 @@ namespace NewRepoProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Pemograman lanjut S1 Informatika");
+            Console.WriteLine("Materi Praktikum Git");
         }
     }
 }
