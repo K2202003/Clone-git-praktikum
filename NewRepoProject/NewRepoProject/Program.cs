@@ -11,6 +11,8 @@ namespace NewRepoProject
             Console.WriteLine("Materi Praktikum Git");
             Console.WriteLine("Kelompok 2 Pemograman Lanjut 20-S1IF-03");
             Console.WriteLine("edit 1 MUH. YAUMIL AKSAH HAMID 20.11.3480");
+            Console.WriteLine("edit 2 hanafi asnan 20.11.3481");
+
         }
     }
 }
