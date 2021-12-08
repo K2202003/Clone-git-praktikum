@@ -13,6 +13,7 @@ namespace NewRepoProject
             Console.WriteLine("edit 1 MUH. YAUMIL AKSAH HAMID 20.11.3480");
             Console.WriteLine("edit 2 hanafi asnan 20.11.3481");
             Console.WriteLine("edit 2 hanafi asnan 20.11.3481");
+            Console.WriteLine("edit 3 Wahyu Hidayat 20.11.3478");
 
         }
     }
